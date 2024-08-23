@@ -1,1 +1,1 @@
-# house_price_prediction
+This is Project on prediction about Car_price prediction based on its name,model,year and other columns excluding Price ofcourse. It impilies the Data Handling like excluding Car_ID column and then Data Exploration,Data Preprocessing by transforming columns by using Simple Imputer,One Hot Encoder and Standard Scaler for categorical and numerical columns respectively. Then splitting into train_test models and from there applying multiple linear regressor and then evaluating the performance by using model_metrics module.
